@@ -35,7 +35,7 @@ This project uses Keycloak to handle user authentication and authorization for t
 
 ## **Why Few Commits?**
 
-The limited number of commits in this repository is because the project was originally developed under a different repository. It was later migrated to this dedicated repository for better organization and management.
+The limited number of commits in this repository is because the project was originally developed under a different repository.
 
 ---
 
